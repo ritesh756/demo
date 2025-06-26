@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+  .page-container {
+    margin: 15px auto;
+    /* Slightly less margin on smaller screens */
+    padding: 15px;
+    /* Slightly less padding */
+  }
+  
